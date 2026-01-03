@@ -24,5 +24,3 @@ Monitors financial transactions by department, category, and region to improve b
 
 ## Screenshots
 
-## Link to Dashboard
-[View Dashboard Online](https://link-to-powerbi-dashboard)
